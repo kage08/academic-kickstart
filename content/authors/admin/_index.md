@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Harshavardhan P Kamarthi
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Final Year Dual Degree Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: "Dept. Of Computer Science and Engineering,\n Indian Institute of Technology Madras"
+  url: "https://www.cse.iitm.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Reinforcement Learning
+- Deep Learning
+- Natural Language Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering
+    institution: Indian Institute of Technology Madras
+    year: 2020
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +39,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:harshavardhan864.hk@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Harsha_64
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=LNXEjT8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kage08
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/harshavardhan-kamarthi-462928112/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Harsha. I'm a final year Dual Degree student in [Department of Computer Science and Engineering](https://cse.iitm.ac.in) at [Indian Institute of Technology Madras](https://iitm.ac.in). I am affiliated to RISE lab and [Robert Bosch Centre for Data Science and AI](https://rbc-dsai.iitm.ac.in/). I am fortunate to have worked with [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) (my current Masters advisor) and [Prof. Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests revolves around the fields of Deep Reinforcement Learning and Natural Language Processing and I am currently looking for PhD oppotunities relevant to my interests.
