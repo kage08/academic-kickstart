@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I'm Harsha. I'm a final year Dual Degree student in [Department of Computer Science and Engineering](https://cse.iitm.ac.in) at [Indian Institute of Technology Madras](https://iitm.ac.in). I am affiliated to RISE lab and [Robert Bosch Centre for Data Science and AI](https://rbc-dsai.iitm.ac.in/). I am fortunate to have worked with [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) (my current Masters advisor) and [Prof. Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
+I'm Harsha. I'm a final year Dual Degree student in [Department of Computer Science and Engineering](https://www.cse.iitm.ac.in) at [Indian Institute of Technology Madras](https://www.iitm.ac.in). I am affiliated to RISE lab and [Robert Bosch Centre for Data Science and AI](https://rbc-dsai.iitm.ac.in/). I am fortunate to have worked with [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) (my current Masters advisor) and [Prof. Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
 My research interests revolves around the fields of Deep Reinforcement Learning and Natural Language Processing and I am currently looking for PhD oppotunities relevant to my interests.
