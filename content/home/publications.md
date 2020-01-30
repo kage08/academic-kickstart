@@ -66,3 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
+[**Click here see all publications**](/publication)
