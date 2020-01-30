@@ -1,16 +1,16 @@
 # Theme metadata
-name = "MyTheme"
+name = "harsha"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#3f51b5"
+primary = "#ff9900"
 
 # Menu
-menu_primary = "#3f51b5" # 500
+menu_primary = "#000000" # 500
 menu_text = "#fff"
-menu_text_active = "#8c9eff" # A100
+menu_text_active = "#ff9900" # A100
 menu_title = "#fff"
 
 # Home sections
