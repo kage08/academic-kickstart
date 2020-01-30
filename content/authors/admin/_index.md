@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cse.iitm.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm final year Computer Science Student at Indian Institute of Technology, Madras. I work in the fields of Reinforcement Learning and Natural Language Processing.
 
 interests:
 - Reinforcement Learning
